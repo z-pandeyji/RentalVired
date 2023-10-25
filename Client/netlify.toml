@@ -1,3 +1,3 @@
 [[redirects]]
-from =/*
-to=/public/index.html
+from ="/*"
+to="/public/index.html"
